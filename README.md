@@ -30,7 +30,7 @@ What Went Well:
 * Functionality: The JavaScript code effectively handled the dynamic generation of menu items and order summary, allowing for smooth user interaction.
 
 Challenges Faced:
-*Dynamic Menu Generation: Implementing the logic to dynamically generate menu items and update the order summary required careful handling of DOM 
+* Dynamic Menu Generation: Implementing the logic to dynamically generate menu items and update the order summary required careful handling of DOM 
  manipulation.
 
 Lessons Learned:
