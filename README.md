@@ -35,4 +35,4 @@ Challenges Faced:
 
 Lessons Learned:
 * DOM Manipulation: I learned how to manipulate the Document Object Model (DOM) using JavaScript to dynamically update webpage content.
-* Event Handling: Gained experience in handling user events such as clicks to trigger actions like adding items to the order.
+* Event Handling: I gained experience in handling user events such as clicks to trigger actions like adding items to the order.
